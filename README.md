@@ -8,7 +8,7 @@ A machine learning algorithm, SVR and K-Means Algorithm is trained on the Delawa
 SVR, also known as support vector regression, is a machine learning algorithm used for regression analysis. SVR Model in Machine Learning aims to find a function that approximates the relationship between the input variables and a continuous target variable while minimizing the prediction error. Running my svr model on the Delaware Data and its infections gave an accuracy of 84%, which indicates the model fits the data very consistent.
 
 # What is K-Means Algorithm
-K-Means Algorithm is an machine learning algorithm
+K-Means Algorithm is an machine learning algorithm, an unsupervised learning algorithm used for data clustering, which groups unlabeled data points into groups or clusters.
 
 ## Technologies Used
 - Python 3
