@@ -9,7 +9,10 @@ SVR, also known as support vector regression, is a machine learning algorithm us
 
 # What is K-Means Algorithm
 K-Means Algorithm is an machine learning algorithm, an unsupervised learning algorithm used for data clustering, which groups unlabeled data points into groups or clusters.
-
+Running K-Means Algorithm on the Delaware Dataset based on the number of infections acquired as well as
+the increases of infections per day within Delaware
+![clusterGraph.png](clusterGraph.png)
+![img.png](KMeansClusterDeInfections.png)
 ## Technologies Used
 - Python 3
 - Seaborn
